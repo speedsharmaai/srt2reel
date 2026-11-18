@@ -2,7 +2,7 @@
 
 ## State
 
-Version 0.1.0, built 2026-11-18. The code is in a private repository, github.com/speedsharmaai/srt2reel. Nothing is published.
+Version 0.1.0, built 2026-11-18. The repository is public since the same day: github.com/speedsharmaai/srt2reel. No release, no marketplace listing, no demo video.
 
 Phase 01 has started: three stories are written and voiced (two Hindi, one English). No video is built from them yet. That material stays out of the repository.
 
@@ -25,7 +25,7 @@ Not checked yet:
 
 1. Phase 01: make three real videos for a speedsharma page, at least one in Hindi and one long landscape one. Fix what gets in the way.
 2. Run the skill once inside a Linux container with only Node and ffmpeg, to find what a clean sandbox is missing.
-3. Decide on a public release (make the repository public, plugin marketplace entry, a demo video). Needs the owner's go-ahead.
+3. Finish the public release: install the plugin once from GitHub to prove the README steps, add a plugin icon, record a demo video. Announcing it needs the owner's go-ahead.
 
 ## Later
 

@@ -8,7 +8,7 @@ srt2reel is a skill for coding agents (Claude Code, claude.ai, and other agents 
 
 ## Now
 
-- State: built and tested on one Mac on 2026-11-18. The code is at github.com/speedsharmaai/srt2reel, private until the public release (phase 02).
+- State: built and tested on one Mac on 2026-11-18. The repository went public the same day. There is no release, marketplace listing or demo video yet.
 - Version: 0.1.0.
 - Tests: 110 unit tests pass (`pnpm test`), type-check is clean.
 - Gate: a fresh agent given only the skill folder built a complete Hindi video with no script failures. What it found and what was changed is in [docs/research/05-skill-test.md](docs/research/05-skill-test.md).
@@ -57,7 +57,7 @@ The pieces the agent draws with:
 
 You need Node.js 22.18 or newer and ffmpeg. The first video also needs network access to the npm registry.
 
-Claude Code, as a plugin (once the repository is public):
+Claude Code, as a plugin. The plugin files pass `claude plugin validate`; installing this way from GitHub has not been tried yet:
 
 ```
 /plugin marketplace add speedsharmaai/srt2reel

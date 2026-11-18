@@ -4,7 +4,7 @@
 |---|---|---|
 | 00 | Research, then build: scripts, template, kit, skill docs, tests | done 2026-11-18 |
 | 01 | Dogfood on real videos for a speedsharma page, in at least two languages | started 2026-11-18: three stories voiced, no video built yet |
-| 02 | Public release: public repository, marketplace entry, demo video | not started, needs owner go-ahead. A private repository exists since 2026-11-18. |
+| 02 | Public release: public repository, marketplace entry, demo video | started: repository public since 2026-11-18. Plugin install from GitHub not tried, no demo video. |
 
 ## Gate for phase 00
 
