@@ -1,0 +1,5 @@
+# Lets esbuild (used by Remotion) run its install step under pnpm.
+allowBuilds:
+  esbuild: true
+onlyBuiltDependencies:
+  - esbuild

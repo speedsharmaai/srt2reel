@@ -1,0 +1,12 @@
+{
+  "name": "srt2reel",
+  "displayName": "srt2reel",
+  "version": "0.1.0",
+  "description": "A voice file and its SRT in, a finished animated story video out, in any language. Vertical shorts or landscape videos, with the SRT's exact words as captions.",
+  "author": {
+    "name": "Sanjeev Sharma",
+    "url": "https://github.com/speedsharmaai"
+  },
+  "license": "MIT",
+  "keywords": ["video", "remotion", "subtitles", "srt", "shorts", "reels", "captions", "multilingual"]
+}

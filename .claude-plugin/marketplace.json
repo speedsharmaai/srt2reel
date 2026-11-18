@@ -1,0 +1,11 @@
+{
+  "name": "srt2reel",
+  "owner": { "name": "Sanjeev Sharma", "url": "https://github.com/speedsharmaai" },
+  "plugins": [
+    {
+      "name": "srt2reel",
+      "source": "./",
+      "description": "Build an animated story video from a voice file and its SRT, in any language."
+    }
+  ]
+}

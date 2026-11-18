@@ -1,0 +1,25 @@
+# dependencies and build output
+node_modules
+/dist
+
+# projects and videos the skill generates
+/examples/*/project
+/examples/*/eval-project
+/examples/*/out
+/examples/_out
+
+# private working material for real pages
+/dogfood
+
+# secrets and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+.claude/settings.local.json
+
+# machine noise
+.DS_Store
+*.log

@@ -1,0 +1,190 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "page": "srt2reel demo",
+  "theme": "paper",
+  "captionLift": 0,
+  "captions": [
+    {
+      "s": 0.2,
+      "e": 2.05,
+      "t": "Maya wanted to\nrun a {marathon}."
+    },
+    {
+      "s": 2.64,
+      "e": 4.38,
+      "t": "She told {everyone}\nat the office."
+    },
+    {
+      "s": 4.99,
+      "e": 7.99,
+      "t": "\"I'm going to run {forty-two}\nkilometres,\" she said.",
+      "who": "Maya"
+    },
+    {
+      "s": 8.59,
+      "e": 11.25,
+      "t": "Everyone clapped. It\nalready felt like {winning}."
+    },
+    {
+      "s": 11.84,
+      "e": 14.02,
+      "t": "But the next morning,\nshe {stayed in bed}."
+    },
+    {
+      "s": 14.64,
+      "e": 16.37,
+      "t": "A month later,\nsomeone asked,"
+    },
+    {
+      "s": 16.73,
+      "e": 18.05,
+      "t": "\"How is the\n{training} going?\"",
+      "who": "Sam"
+    },
+    {
+      "s": 18.64,
+      "e": 20.22,
+      "t": "She had {not} run even {once}."
+    },
+    {
+      "s": 20.83,
+      "e": 24.01,
+      "t": "So she started again, and\nthis time she told {nobody}."
+    },
+    {
+      "s": 24.61,
+      "e": 26.64,
+      "t": "Every morning,\n{one more} kilometre."
+    },
+    {
+      "s": 27.24,
+      "e": 29.97,
+      "t": "Six months later, she\ncrossed the {finish line}."
+    },
+    {
+      "s": 30.56,
+      "e": 31.55,
+      "t": "The lesson is {simple}."
+    },
+    {
+      "s": 32.14,
+      "e": 34.52,
+      "t": "Do the {work} first.\n{Talk} about it later."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "dream",
+      "s": 0,
+      "e": 2.34,
+      "tag": "The big idea"
+    },
+    {
+      "id": "announce",
+      "s": 2.34,
+      "e": 8.29,
+      "tag": "At the office"
+    },
+    {
+      "id": "applause",
+      "s": 8.29,
+      "e": 11.55
+    },
+    {
+      "id": "bed",
+      "s": 11.55,
+      "e": 14.33,
+      "tag": "Next morning"
+    },
+    {
+      "id": "asked",
+      "s": 14.33,
+      "e": 18.35,
+      "tag": "A month later"
+    },
+    {
+      "id": "zero",
+      "s": 18.35,
+      "e": 20.53
+    },
+    {
+      "id": "restart",
+      "s": 20.53,
+      "e": 24.31,
+      "tag": "Starting again"
+    },
+    {
+      "id": "daily",
+      "s": 24.31,
+      "e": 26.94
+    },
+    {
+      "id": "finish",
+      "s": 26.94,
+      "e": 30.27,
+      "tag": "Six months later"
+    },
+    {
+      "id": "lesson",
+      "s": 30.27,
+      "e": 31.85
+    },
+    {
+      "id": "steps",
+      "s": 31.85,
+      "e": 36.03
+    }
+  ],
+  "speak": {
+    "maya": [
+      [
+        4.99,
+        7.0
+      ]
+    ],
+    "sam": [
+      [
+        16.73,
+        18.05
+      ]
+    ]
+  },
+  "sfx": [
+    [
+      "pop",
+      0.9,
+      0.3
+    ],
+    [
+      "pop",
+      9.9,
+      0.35
+    ],
+    [
+      "stamp",
+      19.0,
+      0.5
+    ],
+    [
+      "whoosh",
+      20.6,
+      0.3
+    ],
+    [
+      "pop",
+      27.9,
+      0.35
+    ],
+    [
+      "pop",
+      32.2,
+      0.3
+    ],
+    [
+      "pop",
+      33.5,
+      0.3
+    ]
+  ]
+}
