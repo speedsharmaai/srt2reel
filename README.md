@@ -57,7 +57,7 @@ The pieces the agent draws with:
 
 You need Node.js 22.18 or newer and ffmpeg. The first video also needs network access to the npm registry.
 
-Claude Code, as a plugin. The plugin files pass `claude plugin validate`; installing this way from GitHub has not been tried yet:
+Claude Code, as a plugin (installed this way from GitHub on 2026-11-18, on one Mac):
 
 ```
 /plugin marketplace add speedsharmaai/srt2reel

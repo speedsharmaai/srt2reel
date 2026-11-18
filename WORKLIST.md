@@ -25,7 +25,7 @@ Not checked yet:
 
 1. Phase 01: make three real videos for a speedsharma page, at least one in Hindi and one long landscape one. Fix what gets in the way.
 2. Run the skill once inside a Linux container with only Node and ffmpeg, to find what a clean sandbox is missing.
-3. Finish the public release: install the plugin once from GitHub to prove the README steps, add a plugin icon, record a demo video. Announcing it needs the owner's go-ahead.
+3. Finish the public release: add a plugin icon, record a demo video. The plugin install from GitHub was tried on 2026-11-18 and works. Announcing it needs the owner's go-ahead.
 
 ## Later
 
